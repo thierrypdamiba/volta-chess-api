@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-02-01T21:51:13.707551",
+  "mode": "retrieval + random fallback",
+  "num_games": 5,
+  "summary": {
+    "sunfish_wins": 5,
+    "retrieval_wins": 0,
+    "draws": 0,
+    "avg_moves": 43,
+    "avg_sunfish_ms": 312,
+    "avg_retrieval_ms": 39
+  },
+  "games": [
+    {
+      "result": "1-0",
+      "reason": "checkmate",
+      "moves": 51,
+      "avg_sunfish_ms": 302.9483098250169,
+      "avg_retrieval_ms": 44.413814544677734,
+      "hits": 2,
+      "misses": 23,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1-0\"]\n[Termination \"checkmate\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 e6 4. Bg5 a6 5. Ne5 Qe7 6. Qd2 Qd6 7. Bxf6 g5 8. Bxh8 Qe7 9. Ne4 Bg7 10. Bxg7 Qf6 11. Nxf6+ Kd8 12. Qxg5 Ra7 13. Nfxd7+ Ke8 14. Nf6+ Ke7 15. Nxh7+ Kd6 16. Nxf7+ Kd7 17. Qd8+ Kc6 18. Qxc8 Kb5 19. Qxb8 Ka4 20. Qxa7 c5 21. Qxc5 e5 22. Bxe5 b5 23. Bc7 a5 24. Nf8 b4 25. Bxa5 b3 26. cxb3# 1-0"
+    },
+    {
+      "result": "1-0",
+      "reason": "checkmate",
+      "moves": 47,
+      "avg_sunfish_ms": 293.34407051404315,
+      "avg_retrieval_ms": 38.50603103637695,
+      "hits": 2,
+      "misses": 21,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1-0\"]\n[Termination \"checkmate\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng8 4. Be3 b6 5. Bd4 d6 6. Bxh8 c5 7. Ng5 d5 8. Nxh7 g5 9. Nxg5 Qd7 10. Nh7 d4 11. Nxf8 Qc7 12. Nd5 Qd8 13. Nf4 f5 14. N8e6 Qd5 15. Nc7+ Kd7 16. Nfxd5 a5 17. Nxa8 Kc6 18. Naxb6 f4 19. Nxc8 Nh6 20. Ncxe7+ Kb5 21. Nxf4 a4 22. Ned5 Nc6 23. Nc7+ Kb4 24. Qd2# 1-0"
+    },
+    {
+      "result": "1-0",
+      "reason": "checkmate",
+      "moves": 41,
+      "avg_sunfish_ms": 312.72640682402107,
+      "avg_retrieval_ms": 37.32025623321533,
+      "hits": 2,
+      "misses": 18,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1-0\"]\n[Termination \"checkmate\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Nh5 4. Be3 d5 5. Bd4 e5 6. Bxe5 Nd7 7. Bxh8 Nf4 8. Qd2 a6 9. Qxf4 Nf6 10. Bxf6 Bc5 11. Bxd8 Bb6 12. Bxc7 Ra7 13. Bxb6 Kf8 14. Bxa7 f5 15. Qb8 Kf7 16. Qxc8 Kg7 17. Qxb7+ Kf6 18. Qxh7 a5 19. Bc5 Ke6 20. Qg7 d4 21. Nxd4# 1-0"
+    },
+    {
+      "result": "1-0",
+      "reason": "checkmate",
+      "moves": 33,
+      "avg_sunfish_ms": 443.6294331270106,
+      "avg_retrieval_ms": 37.55994141101837,
+      "hits": 2,
+      "misses": 14,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1-0\"]\n[Termination \"checkmate\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 d5 4. Bg5 Qd6 5. h3 Qd8 6. Bxf6 Bg4 7. Bxh8 Bxh3 8. Rxh3 Kd7 9. Rxh7 d4 10. Bxd4 Kc6 11. Ne5+ Kd6 12. Nxf7+ Ke6 13. Nxd8+ Kd6 14. Nxb7+ Ke6 15. Nc5+ Kf5 16. e4+ Kg5 17. Ne6# 1-0"
+    },
+    {
+      "result": "1-0",
+      "reason": "checkmate",
+      "moves": 45,
+      "avg_sunfish_ms": 206.76039612811545,
+      "avg_retrieval_ms": 38.31792961467396,
+      "hits": 2,
+      "misses": 20,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1-0\"]\n[Termination \"checkmate\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 a5 5. hxg4 c6 6. Bh6 Ra6 7. Ne4 f6 8. Bxf8 Qb6 9. Bxe7 Qxb2 10. Bxf6 b6 11. Nd6+ Kf8 12. Bxb2 a4 13. Bxh8 Bb7 14. Nxb7 Kf7 15. Be5 Ke6 16. Bxb8 Ra7 17. Bxa7 Kd5 18. Rxh7 a3 19. Bxb6 d6 20. Nd8 c5 21. Rh8 g5 22. Rg8 c4 23. Rxg5# 1-0"
+    }
+  ]
+}

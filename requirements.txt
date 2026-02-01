@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sse-starlette
+python-chess
+qdrant-client
+numpy
+tqdm

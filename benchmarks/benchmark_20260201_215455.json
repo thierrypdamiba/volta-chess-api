@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-01T21:54:55.956351",
+  "mode": "retrieval + fallback",
+  "num_games": 20,
+  "summary": {
+    "sunfish_wins": 0,
+    "retrieval_wins": 0,
+    "draws": 20,
+    "avg_moves": 102,
+    "avg_sunfish_ms": 366,
+    "avg_retrieval_ms": 77
+  },
+  "games": [
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 356.1805977540858,
+      "avg_retrieval_ms": 74.41875981349571,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 363.8182668124928,
+      "avg_retrieval_ms": 73.43672303592457,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 375.042200088501,
+      "avg_retrieval_ms": 75.09301223006904,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 380.53392428977816,
+      "avg_retrieval_ms": 76.3873118980258,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 363.985631980148,
+      "avg_retrieval_ms": 76.70078090592928,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 355.96261304967544,
+      "avg_retrieval_ms": 74.8905153835521,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 363.357146581014,
+      "avg_retrieval_ms": 73.31507346209358,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 385.3674168680228,
+      "avg_retrieval_ms": 76.87786981171253,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 360.1796814039642,
+      "avg_retrieval_ms": 73.63116039949306,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 350.9241132175221,
+      "avg_retrieval_ms": 72.43045171101888,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 368.8026923759311,
+      "avg_retrieval_ms": 78.31728692148246,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 378.3971094617657,
+      "avg_retrieval_ms": 78.76091844895306,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 370.56507783777573,
+      "avg_retrieval_ms": 80.30829710118911,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 370.50240647559076,
+      "avg_retrieval_ms": 76.2340695250268,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 375.8407153335272,
+      "avg_retrieval_ms": 79.0416119145412,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 364.10658499773814,
+      "avg_retrieval_ms": 75.56897518681545,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 357.5362504697314,
+      "avg_retrieval_ms": 87.01967725566789,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 370.5512355355656,
+      "avg_retrieval_ms": 91.37019924089022,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 352.2256729649563,
+      "avg_retrieval_ms": 72.34918369966395,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    },
+    {
+      "result": "1/2-1/2",
+      "reason": "repetition",
+      "moves": 102,
+      "avg_sunfish_ms": 349.5310568342022,
+      "avg_retrieval_ms": 78.57947723538268,
+      "hits": 2,
+      "misses": 49,
+      "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"2026.02.01\"]\n[Round \"?\"]\n[White \"Sunfish\"]\n[Black \"RetrievalEngine\"]\n[Result \"1/2-1/2\"]\n[Termination \"repetition\"]\n\n1. Nf3 Nf6 2. Nc3 g6 3. d3 Ng4 4. h3 Nf6 5. Bg5 Bg7 6. Be3 Nh5 7. Bd4 Ng3 8. fxg3 Bxd4 9. Nxd4 Kf8 10. Nd5 Na6 11. Nb3 e6 12. Nf4 Qf6 13. Rb1 Nb4 14. Nc1 Nc6 15. Nb3 Ne5 16. Nc5 d6 17. Ne4 Qf5 18. Rh2 Bd7 19. Qd2 Bc6 20. g4 Nxd3+ 21. exd3 Qe5 22. Nxe6+ Qxe6 23. Kf2 Kg8 24. Qf4 Kg7 25. Nc3 Kg8 26. Re1 Qd7 27. Qd4 g5 28. Qf6 h6 29. Re7 Qxe7 30. Qxe7 Rc8 31. Ne4 Rh7 32. Nf6+ Kh8 33. Nxh7 Kxh7 34. Qxf7+ Kh8 35. Be2 Re8 36. Bf3 Bb5 37. Qxc7 Rf8 38. Qxd6 Kg8 39. Qg6+ Kh8 40. Qxh6+ Kg8 41. Qxg5+ Kh8 42. Qxb5 Rf7 43. Qe8+ Kg7 44. Qd8 Kh7 45. Qe8 Kg7 46. Qd8 Kh7 47. Qe8 Kg7 48. Qd8 Kh7 49. Qe8 Kg7 50. Qd8 Kh7 51. Qe8 Kg7 1/2-1/2"
+    }
+  ]
+}
